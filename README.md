@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Software Engineer focused on Web Development, with a emphasis on Cybersecurity and secure systems design. I enjoy building scalable, secure applications and understanding how systems behave across networks, infrastructure, and web stack.
+
+🌱 Currently learning distributed systems and cloud scalability.
+
+⚡Fun fact: I love Tetris :heart:
