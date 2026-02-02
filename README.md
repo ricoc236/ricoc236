@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Software Engineer focused on Web Development, with a emphasis on Cybersecurity and secure systems design. I enjoy building scalable, secure applications and understanding how systems behave across networks, infrastructure, and web stack.
+I'm a passionate Software Engineer and forever learner. I love working on projects and problems that are challenging, meaningful and engaging; the types of problems that'll keep me up at night.
 
 🌱 Currently learning distributed systems and cloud scalability.
 
